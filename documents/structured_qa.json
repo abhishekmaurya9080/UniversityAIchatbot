@@ -1,0 +1,668 @@
+[
+  {
+    "category": "Admissions",
+    "intent": "admission_and_registration",
+    "questions": [
+      " How do I apply for admission?",
+      " What documents are required for admission?",
+      " How do I register for a semester?",
+      " Can I transfer to the university?"
+    ],
+    "answer": {
+      "summary": "Admission and Registration",
+      "eligibility": " Applicants must satisfy the eligibility criteria published for their selected program.",
+      "steps": [
+        "Admission and Registration",
+        "Fictional university knowledge-base document for AI/RAG chatbot testing.",
+        "General Admission",
+        "annual academic offering.",
+        " Admission applications are submitted through the university admission portal.",
+        " An applicant receives an application number after successful submission."
+      ],
+      "documents": [
+        " Indus State University offers undergraduate, postgraduate, diploma, and certificate programs subject to the",
+        " Recent passport-size photograph.",
+        " Government-issued identity proof.",
+        " Previous academic marksheets and certificates.",
+        " Transfer or migration certificate where applicable."
+      ],
+      "fees": " Pay the application fee.",
+      "deadline": " Students must verify their personal details, program, semester, and registered courses.",
+      "office": " How do I register for a semester? Complete academic registration through the student portal during the",
+      "important_notes": [
+        " Applicants must satisfy the eligibility criteria published for their selected program.",
+        " Newly admitted students must complete academic registration before attending regular classes.",
+        " Students must verify their personal details, program, semester, and registered courses.",
+        " Transfer applicants must have completed at least one semester at their previous institution."
+      ]
+    }
+  },
+  {
+    "category": "Academics",
+    "intent": "courses_and_syllabus",
+    "questions": [
+      " Where can I find the syllabus?",
+      " How many semesters are in B.Tech?",
+      " Can I change an elective?",
+      " Who handles course-related questions?"
+    ],
+    "answer": {
+      "summary": " The fictional university offers B.Tech Computer Science, B.Tech Information Technology, BBA, BCA, MBA,",
+      "eligibility": "Subject to university regulations and eligibility criteria published for the program.",
+      "steps": [
+        "Courses and Syllabus",
+        "Fictional university knowledge-base document for AI/RAG chatbot testing.",
+        " The fictional university offers B.Tech Computer Science, B.Tech Information Technology, BBA, BCA, MBA,",
+        "and selected postgraduate programs.",
+        " B.Tech programs normally have eight semesters over four academic years.",
+        " Each program has a published curriculum containing theory, laboratory, project, and elective components"
+      ],
+      "documents": [
+        "Government ID proof",
+        "Academic marksheets"
+      ],
+      "fees": " B.Tech programs normally have eight semesters over four academic years.",
+      "deadline": " B.Tech programs normally have eight semesters over four academic years.",
+      "office": " Who handles course-related questions? The concerned department or academic coordinator.",
+      "important_notes": [
+        "Students must verify details on the official student portal."
+      ]
+    }
+  },
+  {
+    "category": "Examinations",
+    "intent": "examination_schedules_and_rules",
+    "questions": [
+      " When is the exam timetable released?",
+      " Where can I get my admit card?",
+      " What should I bring to an exam?",
+      " Can the timetable change?"
+    ],
+    "answer": {
+      "summary": "Examination Schedules and Rules",
+      "eligibility": " Supplementary examinations may be conducted for eligible students.",
+      "steps": [
+        "Fictional university knowledge-base document for AI/RAG chatbot testing.",
+        "Examination Types",
+        " The university conducts internal assessments, mid-semester assessments where applicable, practical",
+        "examinations, and end-semester examinations.",
+        " Supplementary examinations may be conducted for eligible students.",
+        " Examination schedules are published by the Examination Office."
+      ],
+      "documents": [
+        "Government ID proof",
+        "Academic marksheets"
+      ],
+      "fees": "Refer to the fee schedule on the student account portal.",
+      "deadline": "Examination Schedules and Rules",
+      "office": " Where can I get my admit card? Through the student portal when it is made available.",
+      "important_notes": [
+        "Examination Schedules and Rules",
+        " Students must carry a valid university identity card and examination admit card.",
+        " Students must follow invigilator instructions."
+      ]
+    }
+  },
+  {
+    "category": "Grading & Results",
+    "intent": "results_and_grading",
+    "questions": [
+      " What is CGPA?",
+      " Where can I see my result?",
+      " Can I request revaluation?",
+      " What if my marks are incorrect?"
+    ],
+    "answer": {
+      "summary": " Courses are graded using the university-approved grading scale.",
+      "eligibility": " Eligible students may apply for revaluation or scrutiny within the announced deadline.",
+      "steps": [
+        "Results and Grading",
+        "Fictional university knowledge-base document for AI/RAG chatbot testing.",
+        " Courses are graded using the university-approved grading scale.",
+        " Grades reflect performance in assessments, practical work, projects, and examinations as applicable.",
+        " Grade points are used for calculation of semester and cumulative performance.",
+        " SGPA represents performance for a semester based on registered course credits and grade points."
+      ],
+      "documents": [
+        "Government ID proof",
+        "Academic marksheets"
+      ],
+      "fees": " Applications require the prescribed fee and course details.",
+      "deadline": " Grade points are used for calculation of semester and cumulative performance.",
+      "office": " What if my marks are incorrect? Report the discrepancy to the Examination Office using the prescribed",
+      "important_notes": [
+        "rules."
+      ]
+    }
+  },
+  {
+    "category": "Academic Policies",
+    "intent": "attendance_rules",
+    "questions": [
+      " What is the minimum attendance?",
+      " Where can I check attendance?",
+      " Can medical leave help with attendance?",
+      " What happens if attendance is short?"
+    ],
+    "answer": {
+      "summary": " A minimum attendance of 75 percent in each course is required for regular end-semester examination",
+      "eligibility": "eligibility, subject to approved university exemptions.",
+      "steps": [
+        "Fictional university knowledge-base document for AI/RAG chatbot testing.",
+        "Minimum Attendance",
+        " A minimum attendance of 75 percent in each course is required for regular end-semester examination",
+        "eligibility, subject to approved university exemptions.",
+        " Attendance is calculated from classes conducted and classes attended.",
+        " Students should regularly monitor attendance on the student portal."
+      ],
+      "documents": [
+        "Government ID proof",
+        "Academic marksheets"
+      ],
+      "fees": "Refer to the fee schedule on the student account portal.",
+      "deadline": " A minimum attendance of 75 percent in each course is required for regular end-semester examination",
+      "office": " Where can I check attendance? On the student portal.",
+      "important_notes": [
+        "Attendance Rules",
+        " Shortage cases are reviewed according to university rules and approved exemption provisions.",
+        " Can medical leave help with attendance? Approved medical leave may be considered under university rules"
+      ]
+    }
+  },
+  {
+    "category": "Finance & Scholarships",
+    "intent": "fees_and_scholarships",
+    "questions": [
+      " What is B.Tech tuition?",
+      " What is the examination fee?",
+      " How do I apply for a scholarship?",
+      " Where can I ask about fees?"
+    ],
+    "answer": {
+      "summary": "Fees and Scholarships",
+      "eligibility": " The university offers merit-based scholarship consideration for eligible students.",
+      "steps": [
+        "Fees and Scholarships",
+        "Fictional university knowledge-base document for AI/RAG chatbot testing.",
+        " The fictional standard annual B.Tech tuition fee is INR 95,000.",
+        " A one-time admission registration fee of INR 5,000 is payable at admission.",
+        " The examination fee is INR 2,500 per semester.",
+        " The student activity fee is INR 1,500 per academic year."
+      ],
+      "documents": [
+        " Required documents may include marksheets, income certificate, identity proof, and bank details."
+      ],
+      "fees": "Fees and Scholarships",
+      "deadline": " The examination fee is INR 2,500 per semester.",
+      "office": " Where can I ask about fees? Accounts Office.",
+      "important_notes": [
+        " Scholarship applications must be submitted before the published deadline."
+      ]
+    }
+  },
+  {
+    "category": "Academic Governance",
+    "intent": "academic_regulations",
+    "questions": [
+      " What are academic regulations?",
+      " Who can explain academic rules?",
+      " What should I do if I have a backlog?"
+    ],
+    "answer": {
+      "summary": " Students must satisfy course, credit, attendance, and examination requirements for academic progression.",
+      "eligibility": " Students must satisfy course, credit, attendance, and examination requirements for academic progression.",
+      "steps": [
+        "Academic Regulations",
+        "Fictional university knowledge-base document for AI/RAG chatbot testing.",
+        "Academic Progress",
+        " Students should complete prerequisite courses before taking dependent courses.",
+        " Academic decisions are governed by the regulations applicable to the student's program and academic",
+        " Course registration should be verified before the registration window closes."
+      ],
+      "documents": [
+        "Government ID proof",
+        "Academic marksheets"
+      ],
+      "fees": "Refer to the fee schedule on the student account portal.",
+      "deadline": " Students must complete semester registration within the notified period.",
+      "office": " What should I do if I have a backlog? Consult the department for the applicable course and examination",
+      "important_notes": [
+        " Students must satisfy course, credit, attendance, and examination requirements for academic progression.",
+        " Students must complete semester registration within the notified period.",
+        " Students must complete the prescribed credits for their program.",
+        " Plagiarism and academic misconduct may be investigated under university rules.",
+        " What are academic regulations? They are the rules governing registration, courses, credits, examinations,"
+      ]
+    }
+  },
+  {
+    "category": "Departments & Faculty",
+    "intent": "departments_and_faculty",
+    "questions": [
+      " Which department handles Computer Science?",
+      " Who should I contact about a course?",
+      " Who helps with academic planning?"
+    ],
+    "answer": {
+      "summary": "Departments and Faculty",
+      "eligibility": "Subject to university regulations and eligibility criteria published for the program.",
+      "steps": [
+        "Departments and Faculty",
+        "Fictional university knowledge-base document for AI/RAG chatbot testing.",
+        " Department of Computer Science and Engineering.",
+        " Department of Information Technology.",
+        " Department of Electronics and Communication Engineering.",
+        " Department of Mechanical Engineering."
+      ],
+      "documents": [
+        "Government ID proof",
+        "Academic marksheets"
+      ],
+      "fees": "Refer to the fee schedule on the student account portal.",
+      "deadline": "As per the official university academic calendar.",
+      "office": " Who helps with academic planning? The department coordinator.",
+      "important_notes": [
+        "Students must verify details on the official student portal."
+      ]
+    }
+  },
+  {
+    "category": "Hostel & Accommodation",
+    "intent": "hostel_information",
+    "questions": [
+      " How do I apply for hostel?",
+      " What are quiet hours?",
+      " Can visitors enter the hostel?",
+      " Who handles hostel complaints?"
+    ],
+    "answer": {
+      "summary": "Eligibility and Application",
+      "eligibility": "Eligibility and Application",
+      "steps": [
+        "Hostel Information",
+        "Fictional university knowledge-base document for AI/RAG chatbot testing.",
+        "Eligibility and Application",
+        " Hostel accommodation is available to eligible enrolled students subject to room availability.",
+        " Students apply through the Hostel Administration or designated student portal.",
+        " Room allocation is made by Hostel Administration."
+      ],
+      "documents": [
+        "Government ID proof",
+        "Academic marksheets"
+      ],
+      "fees": "Refer to the fee schedule on the student account portal.",
+      "deadline": "As per the official university academic calendar.",
+      "office": " How do I apply for hostel? Through Hostel Administration or the designated portal.",
+      "important_notes": [
+        "Rules",
+        " Students must carry their hostel identity card.",
+        " Visitors must follow registration and visiting-hour requirements.",
+        " Students staying in the hostel must follow the hostel leave procedure for overnight absence.",
+        " Required permission should be obtained before leaving campus when the hostel policy requires it."
+      ]
+    }
+  },
+  {
+    "category": "Library & Resources",
+    "intent": "library_facilities",
+    "questions": [
+      " Do I need an ID card?",
+      " Can I use digital resources?",
+      " What happens if I lose a book?"
+    ],
+    "answer": {
+      "summary": " The university library provides textbooks, reference books, journals, digital resources, and study spaces.",
+      "eligibility": " Eligible students can borrow books according to the library's current lending limits.",
+      "steps": [
+        "Library Facilities",
+        "Fictional university knowledge-base document for AI/RAG chatbot testing.",
+        " The university library provides textbooks, reference books, journals, digital resources, and study spaces.",
+        " Students can access library services using a valid university identity card.",
+        " Digital resources may be accessed through the university library portal.",
+        " Eligible students can borrow books according to the library's current lending limits."
+      ],
+      "documents": [
+        "Government ID proof",
+        "Academic marksheets"
+      ],
+      "fees": "Refer to the fee schedule on the student account portal.",
+      "deadline": " Borrowed materials must be returned by the due date.",
+      "office": " Digital resources may be accessed through the university library portal.",
+      "important_notes": [
+        " Borrowed materials must be returned by the due date.",
+        " Late returns may attract penalties under library rules."
+      ]
+    }
+  },
+  {
+    "category": "Placements & Careers",
+    "intent": "placement_information",
+    "questions": [
+      " Where are placement notices published?",
+      " Are all placement eligibility criteria the same?",
+      " Does the university provide placement training?"
+    ],
+    "answer": {
+      "summary": "Placement Information",
+      "eligibility": "Eligibility",
+      "steps": [
+        "Placement Information",
+        "Fictional university knowledge-base document for AI/RAG chatbot testing.",
+        " The Career and Placement Cell coordinates placement drives, career guidance, employer communication,",
+        "and selected training programs.",
+        " Placement announcements are shared through official student channels.",
+        " Placement eligibility varies by employer and may include academic performance, attendance, backlog status,"
+      ],
+      "documents": [
+        "Government ID proof",
+        "Academic marksheets"
+      ],
+      "fees": "Refer to the fee schedule on the student account portal.",
+      "deadline": "As per the official university academic calendar.",
+      "office": " Does the university provide placement training? The Career and Placement Cell may conduct training and",
+      "important_notes": [
+        " Students must read each employer's eligibility criteria before registering."
+      ]
+    }
+  },
+  {
+    "category": "University Notices",
+    "intent": "university_notices",
+    "questions": [
+      " Where can I find university notices?",
+      " Can notices change?",
+      " Which notice should I trust?"
+    ],
+    "answer": {
+      "summary": " University notices communicate examination updates, registration deadlines, holidays, academic changes,",
+      "eligibility": "Subject to university regulations and eligibility criteria published for the program.",
+      "steps": [
+        "University Notices",
+        "Fictional university knowledge-base document for AI/RAG chatbot testing.",
+        "Official Notices",
+        " University notices communicate examination updates, registration deadlines, holidays, academic changes,",
+        "events, and administrative instructions.",
+        " Students should rely on official university channels for final instructions."
+      ],
+      "documents": [
+        "Government ID proof",
+        "Academic marksheets"
+      ],
+      "fees": " Fee and scholarship notices.",
+      "deadline": " University notices communicate examination updates, registration deadlines, holidays, academic changes,",
+      "office": " Which notice should I trust? The latest official notice issued by the relevant university office.",
+      "important_notes": [
+        "Students must verify details on the official student portal."
+      ]
+    }
+  },
+  {
+    "category": "Academic Calendar",
+    "intent": "important_dates",
+    "questions": [
+      " When is odd-semester registration?",
+      " When are even-semester exams?",
+      " Where do I find deadline changes?"
+    ],
+    "answer": {
+      "summary": " Odd-semester registration: 1 August to 10 August.",
+      "eligibility": "Subject to university regulations and eligibility criteria published for the program.",
+      "steps": [
+        "Fictional university knowledge-base document for AI/RAG chatbot testing.",
+        " Odd-semester registration: 1 August to 10 August.",
+        " Odd-semester classes: 12 August to 30 November.",
+        " Odd-semester mid-semester assessment: 5 October to 12 October.",
+        " Odd-semester end-semester examinations: 5 December to 20 December.",
+        " Even-semester registration: 5 January to 12 January."
+      ],
+      "documents": [
+        "Government ID proof",
+        "Academic marksheets"
+      ],
+      "fees": " Fee payment deadlines are published by the Accounts Office.",
+      "deadline": "Important Dates",
+      "office": " Course-registration deadlines are published by the Academic Office.",
+      "important_notes": [
+        "Important Note"
+      ]
+    }
+  },
+  {
+    "category": "Student Support",
+    "intent": "student_services",
+    "questions": [
+      " Where can I check attendance?",
+      " Where can I ask about a transcript?",
+      " Who helps with scholarships?",
+      " Who handles fee issues?"
+    ],
+    "answer": {
+      "summary": " The student portal provides registration, fee information, attendance, results, notices, and selected academic",
+      "eligibility": " Students can request eligible certificates and student documents through the appropriate office or portal.",
+      "steps": [
+        "Student Services",
+        "Fictional university knowledge-base document for AI/RAG chatbot testing.",
+        " The student portal provides registration, fee information, attendance, results, notices, and selected academic",
+        " Students should keep their login credentials secure and should not share passwords.",
+        "Identity and Documents",
+        " Transcript and academic-record requests are handled through the designated academic or examination"
+      ],
+      "documents": [
+        " Students can request eligible certificates and student documents through the appropriate office or portal.",
+        " Bonafide certificate requests are handled through Student Services."
+      ],
+      "fees": " The student portal provides registration, fee information, attendance, results, notices, and selected academic",
+      "deadline": " Examination Office assists with examination forms, schedules, results, and revaluation.",
+      "office": " Who handles fee issues? Accounts Office.",
+      "important_notes": [
+        "Students must verify details on the official student portal."
+      ]
+    }
+  },
+  {
+    "category": "General FAQs",
+    "intent": "frequently_asked_questions",
+    "questions": [
+      " How do I apply for admission?",
+      " What documents do I need?",
+      " Can I apply for transfer admission?",
+      " How do I check my application?",
+      " What is the B.Tech duration?",
+      " What is the minimum attendance?",
+      " Where can I find the syllabus?",
+      " Where is the exam timetable?",
+      " Where are results published?",
+      " Can I apply for revaluation?",
+      " Where do I pay fees?",
+      " Where do I apply for scholarships?",
+      " Who handles fee problems?",
+      " Who handles hostel matters?",
+      " Who handles library matters?",
+      " Who handles placements?"
+    ],
+    "answer": {
+      "summary": "Frequently Asked Questions",
+      "eligibility": " Can I apply for transfer admission? Yes, subject to eligibility, document verification, credit evaluation, and",
+      "steps": [
+        "Frequently Asked Questions",
+        "Fictional university knowledge-base document for AI/RAG chatbot testing.",
+        " How do I apply for admission? Apply through the admission portal.",
+        " Can I apply for transfer admission? Yes, subject to eligibility, document verification, credit evaluation, and",
+        "seat availability.",
+        " How do I check my application? Use your application number and the admission portal."
+      ],
+      "documents": [
+        " What documents do I need? Academic certificates, identity proof, photograph, and applicable supporting"
+      ],
+      "fees": "Fees and Support",
+      "deadline": " What is the B.Tech duration? Four years and eight semesters in the standard program.",
+      "office": " Who handles placements? Career and Placement Cell.",
+      "important_notes": [
+        "Students must verify details on the official student portal."
+      ]
+    }
+  },
+  {
+    "category": "Transfer & Migration",
+    "intent": "transfer_and_migration",
+    "questions": [
+      " What is a Migration Certificate?",
+      " Will all previous credits transfer?",
+      " Who evaluates credits?"
+    ],
+    "answer": {
+      "summary": "Transfer and Migration",
+      "eligibility": " Transfer admission is available to eligible students subject to seat availability and academic review.",
+      "steps": [
+        "Transfer and Migration",
+        "Fictional university knowledge-base document for AI/RAG chatbot testing.",
+        "Transfer Admission",
+        " Transfer admission is available to eligible students subject to seat availability and academic review.",
+        " Applicants should have successfully completed at least one semester at the previous institution.",
+        " Applications require previous academic records and transfer-related documents."
+      ],
+      "documents": [
+        " Transfer Certificate.",
+        " Migration Certificate where applicable.",
+        " Previous semester marksheets.",
+        " Identity proof.",
+        " Recent photographs."
+      ],
+      "fees": " Pay the prescribed application fee.",
+      "deadline": " Applicants should have successfully completed at least one semester at the previous institution.",
+      "office": " Who evaluates credits? The concerned academic department.",
+      "important_notes": [
+        "Students must verify details on the official student portal."
+      ]
+    }
+  },
+  {
+    "category": "Certificates & Verification",
+    "intent": "certificates_and_documents",
+    "questions": [
+      " How do I get a bonafide certificate?",
+      " How do I request a transcript?",
+      " Can I get a duplicate document?"
+    ],
+    "answer": {
+      "summary": "Certificates and Student Documents",
+      "eligibility": " Eligible graduating students may request provisional completion documents according to university",
+      "steps": [
+        "Fictional university knowledge-base document for AI/RAG chatbot testing.",
+        " Students can request it through Student Services or the designated student portal.",
+        " The request should contain accurate student identification and purpose details.",
+        " Academic transcripts contain a student's academic record according to university procedures.",
+        " Transcript requests are submitted through the designated academic or examination office.",
+        " Students should verify their name, enrollment number, and program details."
+      ],
+      "documents": [
+        "Certificates and Student Documents",
+        "Bonafide Certificate",
+        " A bonafide certificate confirms that a student is enrolled at the university.",
+        "Provisional and Other Certificates",
+        " Certificate processing times depend on document verification and office workload."
+      ],
+      "fees": " Duplicate documents may require an application, identity verification, and applicable fee.",
+      "deadline": "As per the official university academic calendar.",
+      "office": " How do I request a transcript? Apply through the designated academic or examination office.",
+      "important_notes": [
+        "Students must verify details on the official student portal."
+      ]
+    }
+  },
+  {
+    "category": "Campus Infrastructure",
+    "intent": "campus_and_facilities",
+    "questions": [
+      " Is campus Wi-Fi available?",
+      " Where are fee issues handled?",
+      " Where do I go for hostel questions?",
+      " Where is examination support?"
+    ],
+    "answer": {
+      "summary": "Campus and Facilities",
+      "eligibility": "Subject to university regulations and eligibility criteria published for the program.",
+      "steps": [
+        "Campus and Facilities",
+        "Fictional university knowledge-base document for AI/RAG chatbot testing.",
+        "Campus Facilities",
+        "student activity spaces, sports facilities, and administrative offices.",
+        " Selected campus areas provide Wi-Fi access for students.",
+        " Computer laboratories are available for academic and practical work according to department schedules."
+      ],
+      "documents": [
+        "Government ID proof",
+        "Academic marksheets"
+      ],
+      "fees": " Students should follow facility-specific rules and opening hours.",
+      "deadline": " Computer laboratories are available for academic and practical work according to department schedules.",
+      "office": " Where is examination support? Examination Office.",
+      "important_notes": [
+        " Students should follow facility-specific rules and opening hours.",
+        " Students should use university computing resources responsibly and follow acceptable-use rules."
+      ]
+    }
+  },
+  {
+    "category": "Grievance & Redressal",
+    "intent": "grievance_and_support",
+    "questions": [
+      " How do I file a complaint?",
+      " Who handles academic complaints?",
+      " Who handles fee complaints?"
+    ],
+    "answer": {
+      "summary": "Grievance and Student Support",
+      "eligibility": "Subject to university regulations and eligibility criteria published for the program.",
+      "steps": [
+        "Grievance and Student Support",
+        "Fictional university knowledge-base document for AI/RAG chatbot testing.",
+        "Grievance Process",
+        " Students should first contact the office or department responsible for the issue.",
+        " If the matter is unresolved, the student may submit a formal grievance through the Student Grievance Cell.",
+        " Students should include their name, enrollment number, issue description, relevant documents, and contact"
+      ],
+      "documents": [
+        "Government ID proof",
+        "Academic marksheets"
+      ],
+      "fees": "Fee and Administrative Complaints",
+      "deadline": "As per the official university academic calendar.",
+      "office": " Who handles fee complaints? Accounts Office.",
+      "important_notes": [
+        " False or abusive submissions may be handled according to applicable university rules."
+      ]
+    }
+  },
+  {
+    "category": "Career & Internships",
+    "intent": "career_and_internships",
+    "questions": [
+      " Where can I find internship opportunities?",
+      " Does the university provide career training?",
+      " Are placement criteria identical for every company?"
+    ],
+    "answer": {
+      "summary": "Career and Internships",
+      "eligibility": " Students may pursue internships subject to program requirements and department approval where",
+      "steps": [
+        "Career and Internships",
+        "Fictional university knowledge-base document for AI/RAG chatbot testing.",
+        " The Career and Placement Cell provides career guidance, placement support, employer communication, and",
+        "selected training activities.",
+        " Students should maintain an updated resume and monitor official career announcements.",
+        " Students may pursue internships subject to program requirements and department approval where"
+      ],
+      "documents": [
+        "Government ID proof",
+        "Academic marksheets"
+      ],
+      "fees": "Refer to the fee schedule on the student account portal.",
+      "deadline": " Students should maintain an updated resume and monitor official career announcements.",
+      "office": " Does the university provide career training? The Career and Placement Cell may conduct workshops and",
+      "important_notes": [
+        "Students must verify details on the official student portal."
+      ]
+    }
+  }
+]

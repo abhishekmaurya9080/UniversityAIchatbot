@@ -1,0 +1,318 @@
+{
+  "dataset_name": "Indus State University - Academic Calendar & Exam Timetable RAG Dataset",
+  "institution": "Indus State University",
+  "academic_session": "2026-27",
+  "semester": "Odd Semester",
+  "status": "Tentative & Calendar-based Schedule",
+  "effective_date": "16-07-2026",
+  "source_note": "Dates are tentative and subject to revision by the Competent Authority. Subject-wise exam timetables and room allocations are published separately.",
+  "records": [
+    {
+      "id": "ET_003",
+      "category": "Exam Timetable",
+      "intent": "mt1_st1",
+      "title": "MT-1 / ST-1 Theory Examination",
+      "canonical_question": "When is the first mid-term or ST-1 theory exam?",
+      "query_variants": [
+        "When is MT-1?",
+        "When is ST-1?",
+        "When are first midterm exams?",
+        "What are the first internal exam dates?",
+        "When is the first theory examination?"
+      ],
+      "answer": "The calendar shows 12/10/2026 to 16/10/2026 for B.Tech 1st and 3rd semesters, and 14/09/2026 to 18/09/2026 for B.Tech 5th and 7th semesters.",
+      "source_page": 1,
+      "source": "Exam Timetable",
+      "rag_text": "Category: Examinations\nIntent: mt1_st1\nTitle: MT-1 / ST-1 Theory Examination\nQuestion: When is the first mid-term or ST-1 theory exam?\nAnswer: The calendar shows 12/10/2026 to 16/10/2026 for B.Tech 1st and 3rd semesters, and 14/09/2026 to 18/09/2026 for B.Tech 5th and 7th semesters.",
+      "exam_dates": {
+        "B.Tech 1st Semester": "12/10/2026 to 16/10/2026",
+        "B.Tech 3rd Semester": "12/10/2026 to 16/10/2026",
+        "B.Tech 5th Semester": "14/09/2026 to 18/09/2026",
+        "B.Tech 7th Semester": "14/09/2026 to 18/09/2026"
+      }
+    },
+    {
+      "id": "ET_004",
+      "category": "Exam Timetable",
+      "intent": "mt2_st2",
+      "title": "MT-2 / ST-2 Theory Examination",
+      "canonical_question": "When is the second mid-term or ST-2 theory exam?",
+      "query_variants": [
+        "When is MT-2?",
+        "When is ST-2?",
+        "When are second midterm exams?",
+        "What are the second internal exam dates?",
+        "When is the second theory examination?"
+      ],
+      "answer": "The calendar shows 30/11/2026 to 04/12/2026 for B.Tech 1st and 3rd semesters, and 21/10/2026 to 23/10/2026 for B.Tech 5th and 7th semesters.",
+      "source_page": 1,
+      "source": "Exam Timetable",
+      "rag_text": "Category: Examinations\nIntent: mt2_st2\nTitle: MT-2 / ST-2 Theory Examination\nQuestion: When is the second mid-term or ST-2 theory exam?\nAnswer: The calendar shows 30/11/2026 to 04/12/2026 for B.Tech 1st and 3rd semesters, and 21/10/2026 to 23/10/2026 for B.Tech 5th and 7th semesters.",
+      "exam_dates": {
+        "B.Tech 1st Semester": "30/11/2026 to 04/12/2026",
+        "B.Tech 3rd Semester": "30/11/2026 to 04/12/2026",
+        "B.Tech 5th Semester": "21/10/2026 to 23/10/2026",
+        "B.Tech 7th Semester": "21/10/2026 to 23/10/2026"
+      }
+    },
+    {
+      "id": "ET_005",
+      "category": "Exam Timetable",
+      "intent": "end_semester_theory",
+      "title": "End Term / End Semester Theory Examination",
+      "canonical_question": "When is the end semester theory examination?",
+      "query_variants": [
+        "When are end semester exams?",
+        "When are end term exams?",
+        "What are the final theory exam dates?",
+        "When does the end semester theory exam start?",
+        "What is the end term exam schedule?"
+      ],
+      "answer": "The calendar shows 04 Jan–25 Jan 2027 for B.Tech 1st and 3rd semesters, and 24 Nov–27 Dec 2026 for B.Tech 5th and 7th semesters.",
+      "source_page": 1,
+      "source": "Exam Timetable",
+      "rag_text": "Category: Examinations\nIntent: end_semester_theory\nTitle: End Term / End Semester Theory Examination\nQuestion: When is the end semester theory examination?\nAnswer: The calendar shows 04 Jan–25 Jan 2027 for B.Tech 1st and 3rd semesters, and 24 Nov–27 Dec 2026 for B.Tech 5th and 7th semesters.",
+      "exam_dates": {
+        "B.Tech 1st Semester": "04 Jan–25 Jan 2027",
+        "B.Tech 3rd Semester": "04 Jan–25 Jan 2027",
+        "B.Tech 5th Semester": "24 Nov–27 Dec 2026",
+        "B.Tech 7th Semester": "24 Nov–27 Dec 2026"
+      }
+    },
+    {
+      "id": "ET_006",
+      "category": "Exam Timetable",
+      "intent": "end_semester_practical_viva",
+      "title": "End Term / End Semester Practical / Project Viva",
+      "canonical_question": "When is the end semester practical or project viva?",
+      "query_variants": [
+        "When are end semester practical exams?",
+        "When is project viva?",
+        "When is practical viva?",
+        "What are the end semester practical dates?",
+        "When is the final practical examination?"
+      ],
+      "answer": "The calendar shows 04 Jan–25 Jan 2027 for B.Tech 1st and 3rd semesters, and 07 Dec–24 Dec 2026 for B.Tech 5th and 7th semesters.",
+      "source_page": 1,
+      "source": "Exam Timetable",
+      "rag_text": "Category: Examinations\nIntent: end_semester_practical_viva\nTitle: End Term / End Semester Practical / Project Viva\nQuestion: When is the end semester practical or project viva?\nAnswer: The calendar shows 04 Jan–25 Jan 2027 for B.Tech 1st and 3rd semesters, and 07 Dec–24 Dec 2026 for B.Tech 5th and 7th semesters.",
+      "exam_dates": {
+        "B.Tech 1st Semester": "04 Jan–25 Jan 2027",
+        "B.Tech 3rd Semester": "04 Jan–25 Jan 2027",
+        "B.Tech 5th Semester": "07 Dec–24 Dec 2026",
+        "B.Tech 7th Semester": "07 Dec–24 Dec 2026"
+      }
+    },
+    {
+      "id": "ET_008",
+      "category": "Exam Timetable",
+      "intent": "makeup_pue",
+      "title": "Make-up / PUE Theory Examination",
+      "canonical_question": "When are make-up or PUE theory examinations?",
+      "query_variants": [
+        "When is the make-up exam?",
+        "When is the PUE exam?",
+        "What are make-up theory exam dates?",
+        "When can I appear for the make-up exam?",
+        "What is the PUE theory exam schedule?"
+      ],
+      "answer": "The calendar shows Make-up/PUE Theory Examination from 21–28/12/2026 for B.Tech 1st, 3rd and 7th semester columns. The B.Tech 5th semester entry is marked 'To be decided'.",
+      "source_page": 1,
+      "source": "Exam Timetable",
+      "rag_text": "Category: Examinations\nIntent: makeup_pue\nTitle: Make-up / PUE Theory Examination\nQuestion: When are make-up or PUE theory examinations?\nAnswer: The calendar shows Make-up/PUE Theory Examination from 21–28/12/2026 for B.Tech 1st, 3rd and 7th semester columns. The B.Tech 5th semester entry is marked 'To be decided'.",
+      "exam_dates": {
+        "B.Tech 1st Semester": "21–28/12/2026",
+        "B.Tech 3rd Semester": "21–28/12/2026",
+        "B.Tech 5th Semester": "To be decided",
+        "B.Tech 7th Semester": "21–28/12/2026"
+      }
+    },
+    {
+      "id": "ET_009",
+      "category": "Exam Timetable",
+      "intent": "aktu_exam_weightage",
+      "title": "STS Exams - Weightage / Syllabus - Under AKTU",
+      "canonical_question": "What is the ST-1, ST-2, PUE and End Semester exam weightage?",
+      "query_variants": [
+        "What is ST-1 weightage?",
+        "What is ST-2 weightage?",
+        "What is PUE weightage?",
+        "What is end semester exam weightage under AKTU?",
+        "How many units are covered in ST-1?",
+        "How many units are covered in PUE?",
+        "What is the duration of ST exams?"
+      ],
+      "answer": "The reference table lists ST-1 and ST-2 as 1 hr 30 min, 2 units, weightage 2.5 each; PUE as 3 hr, 5 units, weightage 10; and End Semester Exam (AKTU Exam) as 3 hrs, 5 units, weightage 70.",
+      "source_page": 2,
+      "source": "Exam Timetable",
+      "rag_text": "Category: Examinations\nIntent: aktu_exam_weightage\nTitle: STS Exams - Weightage / Syllabus - Under AKTU\nQuestion: What is the ST-1, ST-2, PUE and End Semester exam weightage?\nAnswer: The reference table lists ST-1 and ST-2 as 1 hr 30 min, 2 units, weightage 2.5 each; PUE as 3 hr, 5 units, weightage 10; and End Semester Exam (AKTU Exam) as 3 hrs, 5 units, weightage 70.",
+      "notes": [
+        "Both STs & PUE are mandatory.",
+        "No re-test/special test will be conducted."
+      ]
+    },
+    {
+      "id": "ET_010",
+      "category": "Exam Timetable",
+      "intent": "autonomy_exam_weightage",
+      "title": "Mid Term & Makeup Exams - Under Autonomy",
+      "canonical_question": "What is the mid-term and makeup exam weightage under autonomy?",
+      "query_variants": [
+        "What is MT-1 weightage?",
+        "What is MT-2 weightage?",
+        "What is make-up exam weightage?",
+        "What is end term exam weightage?",
+        "How many units are covered in MT-1?",
+        "How many units are covered in MT-2?",
+        "What is the duration of the make-up exam?"
+      ],
+      "answer": "The autonomy table lists MT-1 and MT-2 as 1 hr 15 min, 1.5 units, weightage 15 each; Make-up Exam as 1 hr 15 min, 3 units, weightage 15; and End Term Exam as 2 hrs, 5 units, weightage 40.",
+      "source_page": 2,
+      "source": "Exam Timetable",
+      "rag_text": "Category: Examinations\nIntent: autonomy_exam_weightage\nTitle: Mid Term & Makeup Exams - Under Autonomy\nQuestion: What is the mid-term and makeup exam weightage under autonomy?\nAnswer: The autonomy table lists MT-1 and MT-2 as 1 hr 15 min, 1.5 units, weightage 15 each; Make-up Exam as 1 hr 15 min, 3 units, weightage 15; and End Term Exam as 2 hrs, 5 units, weightage 40.",
+      "notes": [
+        "Each Term examination is compulsory."
+      ]
+    },
+    {
+      "id": "academic_001",
+      "category": "Academic Calendar",
+      "intent": "odd_semester_calendar",
+      "title": "Odd Semester Calendar",
+      "canonical_question": "What are the important dates for the odd semester 2026-27?",
+      "query_variants": [
+        "What is the odd semester calendar?",
+        "When does the odd semester start?",
+        "When do odd semester classes begin?",
+        "When is odd semester registration?",
+        "What are the important odd semester dates?",
+        "Tell me the 2026-27 odd semester schedule",
+        "When are odd semester exams?",
+        "What is the odd semester schedule?"
+      ],
+      "answer": "The Indus State University academic calendar for the 2026-27 odd semester is tentative and includes class commencement, assessments, examinations, and the transition to the even semester.",
+      "important_note": "Dates are tentative and subject to revision by the Competent Authority.",
+      "source_page": 1,
+      "source": "Academic Calendar 2026-27",
+      "rag_text": "Category: Academic Calendar\nIntent: odd_semester_calendar\nTitle: Odd Semester Calendar\nQuestion: What are the important dates for the odd semester 2026-27?\nAnswer: The Indus State University academic calendar for the 2026-27 odd semester is tentative and includes class commencement, assessments, examinations, and the transition to the even semester.",
+      "institution": "Indus State University"
+    },
+    {
+      "id": "academic_002",
+      "category": "Academic Calendar",
+      "intent": "class_commencement",
+      "title": "Induction / Commencement of Classes",
+      "canonical_question": "When do classes commence?",
+      "query_variants": [
+        "When do first semester classes start?",
+        "When do 3rd semester classes start?",
+        "When do 5th and 7th semester classes start?",
+        "When does induction begin?",
+        "When is commencement of classes?"
+      ],
+      "answer": "For B.Tech, the tentative commencement dates shown are 10/09/2026 for 1st semester and 16/07/2026 for 3rd, 5th and 7th semesters.",
+      "dates": {
+        "B.Tech 1st Semester": "10/09/2026",
+        "B.Tech 3rd Semester": "16/07/2026",
+        "B.Tech 5th Semester": "16/07/2026",
+        "B.Tech 7th Semester": "16/07/2026"
+      },
+      "source_page": 1,
+      "source": "Academic Calendar 2026-27",
+      "rag_text": "Category: Academic Calendar\nIntent: class_commencement\nTitle: Induction / Commencement of Classes\nQuestion: When do classes commence?\nAnswer: For B.Tech, the tentative commencement dates shown are 10/09/2026 for 1st semester and 16/07/2026 for 3rd, 5th and 7th semesters.",
+      "institution": "Indus State University"
+    },
+    {
+      "id": "academic_007",
+      "category": "Examinations",
+      "intent": "practical_assessment",
+      "title": "Practical Assessments",
+      "canonical_question": "When are practical assessments?",
+      "query_variants": [
+        "When is Practical Assessment I?",
+        "When is Practical Assessment II?",
+        "What are practical assessment dates?",
+        "When are lab assessments?",
+        "When are practical assessments held?"
+      ],
+      "answer": "Practical Assessment-I is shown for 22–28/10/2026. Practical Assessment-II is shown for 14–18/12/2026 for B.Tech 1st and 3rd semesters and 30/10/2026–05/11/2026 for B.Tech 5th and 7th semesters.",
+      "dates": {
+        "Practical Assessment I": "22–28/10/2026",
+        "Practical Assessment II B.Tech 1st/3rd": "14–18/12/2026",
+        "Practical Assessment II B.Tech 5th/7th": "30/10/2026–05/11/2026"
+      },
+      "source_page": 1,
+      "source": "Academic Calendar 2026-27",
+      "rag_text": "Category: Examinations\nIntent: practical_assessment\nTitle: Practical Assessments\nQuestion: When are practical assessments?\nAnswer: Practical Assessment-I is shown for 22–28/10/2026. Practical Assessment-II is shown for 14–18/12/2026 for B.Tech 1st and 3rd semesters and 30/10/2026–05/11/2026 for B.Tech 5th and 7th semesters.",
+      "institution": "Indus State University"
+    },
+    {
+      "id": "academic_011",
+      "category": "Attendance",
+      "intent": "minimum_attendance",
+      "title": "Minimum Attendance Requirement",
+      "canonical_question": "What is the minimum attendance required to appear in examinations?",
+      "query_variants": [
+        "How much attendance is required for exams?",
+        "Is 75 percent attendance compulsory?",
+        "Can I appear in exams with low attendance?",
+        "What attendance is required for ST exams?",
+        "What attendance is required for end semester exams?",
+        "Is attendance required for PUE and makeup exams?"
+      ],
+      "answer": "A minimum 75% attendance is required to appear in STs, MTs, PUEs, Makeup Exams, End Sem Exam and End Term Exam.",
+      "requirement": "Minimum 75% attendance",
+      "applies_to": [
+        "STs",
+        "MTs",
+        "PUEs",
+        "Makeup Exams",
+        "End Sem Exam",
+        "End Term Exam"
+      ],
+      "source_page": 2,
+      "source": "Academic Calendar 2026-27",
+      "rag_text": "Category: Attendance\nIntent: minimum_attendance\nTitle: Minimum Attendance Requirement\nQuestion: What is the minimum attendance required to appear in examinations?\nAnswer: A minimum 75% attendance is required to appear in STs, MTs, PUEs, Makeup Exams, End Sem Exam and End Term Exam.",
+      "institution": "Indus State University"
+    },
+    {
+      "id": "academic_012",
+      "category": "Holidays",
+      "intent": "holiday_list",
+      "title": "List of Holidays",
+      "canonical_question": "What are the holidays in the 2026-27 odd semester?",
+      "query_variants": [
+        "What are the college holidays?",
+        "Which holidays are in August 2026?",
+        "Which holidays are in September 2026?",
+        "Which holidays are in October 2026?",
+        "Which holidays are in November 2026?",
+        "Which holidays are in December 2026?",
+        "Is Diwali a holiday?",
+        "When is Independence Day holiday?",
+        "When is Dussehra holiday?",
+        "When is Christmas holiday?"
+      ],
+      "answer": "The reference lists Shravan Shivratri on 11-08-2026; Independence Day on 15-08-2026; Eid-e-Milad/Milad-un-Nab on 26-08-2026; Raksha Bandhan on 28-08-2026; Janmashtami on 04-09-2026; Gandhi Jayanti on 02-10-2026; Maha Navmi on 19-10-2026; Dussehra on 20-10-2026; Diwali Holidays from 06-11-2026 to 13-11-2026; Guru Nanak Jayanti on 24-11-2026; Christmas Day on 25-12-2026; New Year on 01-01-2027; and Republic Day on 26-01-2027.",
+      "holidays": [
+        { "name": "Shravan Shivratri", "date": "11-08-2026" },
+        { "name": "Independence Day", "date": "15-08-2026" },
+        { "name": "Eid-e-Milad/Milad-un-Nab", "date": "26-08-2026" },
+        { "name": "Raksha Bandhan", "date": "28-08-2026" },
+        { "name": "Janmashtami", "date": "04-09-2026" },
+        { "name": "Gandhi Jayanti", "date": "02-10-2026" },
+        { "name": "Maha Navmi", "date": "19-10-2026" },
+        { "name": "Dussehra", "date": "20-10-2026" },
+        { "name": "Diwali Holidays", "date": "06-11-2026 to 13-11-2026" },
+        { "name": "Guru Nanak Jayanti", "date": "24-11-2026" },
+        { "name": "Christmas Day", "date": "25-12-2026" },
+        { "name": "New Year", "date": "01-01-2027" },
+        { "name": "Republic Day", "date": "26-01-2027" }
+      ],
+      "source_page": 2,
+      "source": "Academic Calendar 2026-27",
+      "rag_text": "Category: Holidays\nIntent: holiday_list\nTitle: List of Holidays\nQuestion: What are the holidays in the 2026-27 odd semester?\nAnswer: The reference lists Shravan Shivratri on 11-08-2026; Independence Day on 15-08-2026; Eid-e-Milad/Milad-un-Nab on 26-08-2026; Raksha Bandhan on 28-08-2026; Janmashtami on 04-09-2026; Gandhi Jayanti on 02-10-2026; Maha Navmi on 19-10-2026; Dussehra on 20-10-2026; Diwali Holidays from 06-11-2026 to 13-11-2026; Guru Nanak Jayanti on 24-11-2026; Christmas Day on 25-12-2026; New Year on 01-01-2027; and Republic Day on 26-01-2027.",
+      "institution": "Indus State University"
+    }
+  ]
+}

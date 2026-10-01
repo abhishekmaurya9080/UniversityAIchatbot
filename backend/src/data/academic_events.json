@@ -1,0 +1,275 @@
+{
+  "dataset_name": "Indus State University - Academic Events",
+  "dataset_type": "academic_events",
+  "institution": "Indus State University",
+  "academic_session": "2026-27",
+  "records": [
+    {
+      "id": "EVENT_001",
+      "event_type": "festival_holiday",
+      "event_name": "Independence Day",
+      "date": "2026-08-15",
+      "day": "Saturday",
+      "status": "Holiday",
+      "audience": "All Students",
+      "description": "University holiday on the occasion of Independence Day.",
+      "query_variants": [
+        "Is there a holiday on Independence Day?",
+        "When is Independence Day holiday?",
+        "Is college closed on 15 August?",
+        "Independence Day holiday date"
+      ],
+      "rag_text": "Indus State University observes Independence Day as a university holiday on 15 August 2026."
+    },
+    {
+      "id": "EVENT_002",
+      "event_type": "festival_holiday",
+      "event_name": "Gandhi Jayanti",
+      "date": "2026-10-02",
+      "day": "Friday",
+      "status": "Holiday",
+      "audience": "All Students",
+      "description": "University holiday on the occasion of Gandhi Jayanti.",
+      "query_variants": [
+        "Is Gandhi Jayanti a holiday?",
+        "When is Gandhi Jayanti holiday?",
+        "Is college closed on 2 October?",
+        "Gandhi Jayanti holiday date"
+      ],
+      "rag_text": "Indus State University observes Gandhi Jayanti as a university holiday on 2 October 2026."
+    },
+    {
+      "id": "EVENT_003",
+      "event_type": "festival_holiday",
+      "event_name": "Diwali",
+      "date": "2026-11-08",
+      "day": "Sunday",
+      "status": "Festival Holiday",
+      "audience": "All Students",
+      "description": "Festival holiday for Diwali.",
+      "query_variants": [
+        "When is Diwali holiday?",
+        "Is Diwali a college holiday?",
+        "Diwali holiday date",
+        "College holiday for Diwali"
+      ],
+      "rag_text": "Indus State University has a festival holiday for Diwali."
+    },
+    {
+      "id": "EVENT_004",
+      "event_type": "festival_holiday",
+      "event_name": "Holi",
+      "status": "Festival Holiday",
+      "audience": "All Students",
+      "description": "Festival holiday for Holi.",
+      "query_variants": [
+        "When is Holi holiday?",
+        "Is Holi a college holiday?",
+        "Holi holiday date",
+        "College holiday for Holi"
+      ],
+      "rag_text": "Indus State University has a festival holiday for Holi."
+    },
+    {
+      "id": "EVENT_005",
+      "event_type": "festival_holiday",
+      "event_name": "Dussehra",
+      "status": "Festival Holiday",
+      "audience": "All Students",
+      "description": "Festival holiday for Dussehra.",
+      "query_variants": [
+        "Is Dussehra a holiday?",
+        "When is Dussehra holiday?",
+        "College holiday for Dussehra"
+      ],
+      "rag_text": "Indus State University has a festival holiday for Dussehra."
+    },
+    {
+      "id": "EVENT_006",
+      "event_type": "festival_holiday",
+      "event_name": "Christmas",
+      "date": "2026-12-25",
+      "day": "Friday",
+      "status": "Festival Holiday",
+      "audience": "All Students",
+      "description": "University holiday for Christmas.",
+      "query_variants": [
+        "Is Christmas a college holiday?",
+        "When is Christmas holiday?",
+        "Christmas holiday date",
+        "College holiday on 25 December"
+      ],
+      "rag_text": "Indus State University observes Christmas as a university holiday."
+    },
+    {
+      "id": "EVENT_007",
+      "event_type": "sports",
+      "event_name": "Annual Sports Day",
+      "date": null,
+      "status": "University Event",
+      "audience": "Students",
+      "venue": null,
+      "activities": [
+        "Athletics",
+        "Cricket",
+        "Football",
+        "Volleyball",
+        "Basketball",
+        "Badminton",
+        "Table Tennis"
+      ],
+      "description": "Annual university sports event featuring student athletic and team competitions.",
+      "query_variants": [
+        "When is Sports Day?",
+        "Annual Sports Day date",
+        "What sports are included?",
+        "Where is Sports Day?",
+        "Sports event in university"
+      ],
+      "rag_text": "Annual Sports Day is a university sports event for students. The official date and venue should be checked in the latest university event notice."
+    },
+    {
+      "id": "EVENT_008",
+      "event_type": "cultural",
+      "event_name": "Annual Cultural Fest",
+      "date": null,
+      "status": "University Event",
+      "audience": "Students",
+      "venue": null,
+      "activities": [
+        "Dance",
+        "Singing",
+        "Drama",
+        "Music",
+        "Fashion Show",
+        "Art Competition",
+        "Literary Events"
+      ],
+      "description": "Annual cultural festival featuring student cultural and creative activities.",
+      "query_variants": [
+        "When is the cultural fest?",
+        "Annual fest date",
+        "What happens in cultural fest?",
+        "Cultural fest registration",
+        "University fest"
+      ],
+      "rag_text": "The Annual Cultural Fest is a student cultural event. The official date, venue and registration details should be checked in the latest university event notice."
+    },
+    {
+      "id": "EVENT_009",
+      "event_type": "technical",
+      "event_name": "Annual Technical Fest",
+      "date": null,
+      "status": "University Event",
+      "audience": "Students",
+      "venue": null,
+      "activities": [
+        "Coding Competition",
+        "Hackathon",
+        "Robotics",
+        "Project Exhibition",
+        "Quiz",
+        "Technical Workshops"
+      ],
+      "description": "Technical festival featuring technology and engineering competitions and activities.",
+      "query_variants": [
+        "When is the technical fest?",
+        "Technical fest date",
+        "Is there a hackathon?",
+        "Technical event registration",
+        "University coding competition"
+      ],
+      "rag_text": "The Annual Technical Fest is a university technology event. The official date, venue and registration details should be checked in the latest university event notice."
+    },
+    {
+      "id": "EVENT_010",
+      "event_type": "orientation",
+      "event_name": "Student Orientation Program",
+      "date": null,
+      "status": "University Event",
+      "audience": [
+        "New Students",
+        "First Year Students"
+      ],
+      "activities": [
+        "University Introduction",
+        "Academic Guidance",
+        "Department Introduction",
+        "Student Services Information",
+        "Campus Guidelines"
+      ],
+      "description": "Orientation program for new students introducing university academics, facilities and student services.",
+      "query_variants": [
+        "When is orientation?",
+        "New student orientation",
+        "First year orientation",
+        "Orientation program date"
+      ],
+      "rag_text": "The Student Orientation Program introduces new students to the university, academics, departments, services and campus guidelines."
+    },
+    {
+      "id": "EVENT_011",
+      "event_type": "workshop",
+      "event_name": "Technical Workshop",
+      "date": null,
+      "status": "Academic Event",
+      "audience": "Students",
+      "activities": [
+        "Hands-on Training",
+        "Technical Demonstration",
+        "Expert Session"
+      ],
+      "description": "Technical workshop providing practical learning and hands-on exposure.",
+      "query_variants": [
+        "Are there technical workshops?",
+        "When is the next workshop?",
+        "Workshop for students",
+        "Technical workshop registration"
+      ],
+      "rag_text": "Technical workshops may provide students with practical and hands-on learning opportunities. Check the latest university notice for the specific workshop."
+    },
+    {
+      "id": "EVENT_012",
+      "event_type": "seminar",
+      "event_name": "Guest Lecture / Seminar",
+      "date": null,
+      "status": "Academic Event",
+      "audience": "Students",
+      "activities": [
+        "Guest Lecture",
+        "Expert Talk",
+        "Question and Answer Session"
+      ],
+      "description": "Academic or industry-oriented seminar conducted for students.",
+      "query_variants": [
+        "Are there guest lectures?",
+        "When is the seminar?",
+        "Industry expert session",
+        "Guest lecture for students"
+      ],
+      "rag_text": "Guest lectures and seminars may be organized for students. Specific speakers, dates and venues should be taken from the official university event notice."
+    },
+    {
+      "id": "EVENT_013",
+      "event_type": "student_activity",
+      "event_name": "Student Club Activity",
+      "date": null,
+      "status": "Student Activity",
+      "audience": "Students",
+      "activities": [
+        "Club Meeting",
+        "Competition",
+        "Workshop",
+        "Student Activity"
+      ],
+      "description": "Activities organized by university student clubs.",
+      "query_variants": [
+        "What student club events are available?",
+        "When are club activities?",
+        "Student club event",
+        "How can I participate in club activities?"
+      ],
+      "rag_text": "Student clubs may organize meetings, competitions, workshops and other activities. Students should check the latest club or university notice for details."
+    }
+  ]
+}

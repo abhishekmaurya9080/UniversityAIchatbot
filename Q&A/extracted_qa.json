@@ -1,0 +1,494 @@
+[
+  {
+    "category": "Admission and Registration",
+    "sourceDocument": "01_Admission_and_Registration.pdf",
+    "question": " How do I apply for admission?",
+    "answer": "Use the university admission portal."
+  },
+  {
+    "category": "Admission and Registration",
+    "sourceDocument": "01_Admission_and_Registration.pdf",
+    "question": " What documents are required for admission?",
+    "answer": "Academic certificates, identity proof, photograph, and applicable supporting documents."
+  },
+  {
+    "category": "Admission and Registration",
+    "sourceDocument": "01_Admission_and_Registration.pdf",
+    "question": " How do I register for a semester?",
+    "answer": "Complete academic registration through the student portal during the registration period."
+  },
+  {
+    "category": "Admission and Registration",
+    "sourceDocument": "01_Admission_and_Registration.pdf",
+    "question": " Can I transfer to the university?",
+    "answer": "Yes, eligible students may apply for transfer subject to verification, credit evaluation, and seat availability."
+  },
+  {
+    "category": "Courses and Syllabus",
+    "sourceDocument": "02_Courses_and_Syllabus.pdf",
+    "question": " Where can I find the syllabus?",
+    "answer": "In the Academic section of the student portal or department resource area."
+  },
+  {
+    "category": "Courses and Syllabus",
+    "sourceDocument": "02_Courses_and_Syllabus.pdf",
+    "question": " How many semesters are in B.Tech?",
+    "answer": "Eight semesters."
+  },
+  {
+    "category": "Courses and Syllabus",
+    "sourceDocument": "02_Courses_and_Syllabus.pdf",
+    "question": " Can I change an elective?",
+    "answer": "Changes are allowed only during the notified course-registration period and subject to approval."
+  },
+  {
+    "category": "Courses and Syllabus",
+    "sourceDocument": "02_Courses_and_Syllabus.pdf",
+    "question": " Who handles course-related questions?",
+    "answer": "The concerned department or academic coordinator."
+  },
+  {
+    "category": "Examination Schedules and Rules",
+    "sourceDocument": "03_Examination_Schedules_and_Rules.pdf",
+    "question": " When is the exam timetable released?",
+    "answer": "The Examination Office publishes it through official notices."
+  },
+  {
+    "category": "Examination Schedules and Rules",
+    "sourceDocument": "03_Examination_Schedules_and_Rules.pdf",
+    "question": " Where can I get my admit card?",
+    "answer": "Through the student portal when it is made available."
+  },
+  {
+    "category": "Examination Schedules and Rules",
+    "sourceDocument": "03_Examination_Schedules_and_Rules.pdf",
+    "question": " What should I bring to an exam?",
+    "answer": "Valid ID card and admit card."
+  },
+  {
+    "category": "Examination Schedules and Rules",
+    "sourceDocument": "03_Examination_Schedules_and_Rules.pdf",
+    "question": " Can the timetable change?",
+    "answer": "Yes, changes may be announced through official university notices."
+  },
+  {
+    "category": "Results and Grading",
+    "sourceDocument": "04_Results_and_Grading.pdf",
+    "question": " What is CGPA?",
+    "answer": "It is the cumulative grade-point performance across completed semesters."
+  },
+  {
+    "category": "Results and Grading",
+    "sourceDocument": "04_Results_and_Grading.pdf",
+    "question": " Where can I see my result?",
+    "answer": "On the student portal."
+  },
+  {
+    "category": "Results and Grading",
+    "sourceDocument": "04_Results_and_Grading.pdf",
+    "question": " Can I request revaluation?",
+    "answer": "Eligible students may apply during the notified period."
+  },
+  {
+    "category": "Results and Grading",
+    "sourceDocument": "04_Results_and_Grading.pdf",
+    "question": " What if my marks are incorrect?",
+    "answer": "Report the discrepancy to the Examination Office using the prescribed process."
+  },
+  {
+    "category": "Attendance Rules",
+    "sourceDocument": "05_Attendance_Rules.pdf",
+    "question": " What is the minimum attendance?",
+    "answer": "75 percent per course for regular examination eligibility."
+  },
+  {
+    "category": "Attendance Rules",
+    "sourceDocument": "05_Attendance_Rules.pdf",
+    "question": " Where can I check attendance?",
+    "answer": "On the student portal."
+  },
+  {
+    "category": "Attendance Rules",
+    "sourceDocument": "05_Attendance_Rules.pdf",
+    "question": " Can medical leave help with attendance?",
+    "answer": "Approved medical leave may be considered under university rules with supporting documents."
+  },
+  {
+    "category": "Attendance Rules",
+    "sourceDocument": "05_Attendance_Rules.pdf",
+    "question": " What happens if attendance is short?",
+    "answer": "The student may face examination eligibility restrictions."
+  },
+  {
+    "category": "Fees and Scholarships",
+    "sourceDocument": "06_Fees_and_Scholarships.pdf",
+    "question": " What is B.Tech tuition?",
+    "answer": "INR 95,000 per academic year in this fictional dataset."
+  },
+  {
+    "category": "Fees and Scholarships",
+    "sourceDocument": "06_Fees_and_Scholarships.pdf",
+    "question": " What is the examination fee?",
+    "answer": "INR 2,500 per semester."
+  },
+  {
+    "category": "Fees and Scholarships",
+    "sourceDocument": "06_Fees_and_Scholarships.pdf",
+    "question": " How do I apply for a scholarship?",
+    "answer": "Submit the scholarship form and required documents through the Student Welfare Office or designated portal."
+  },
+  {
+    "category": "Fees and Scholarships",
+    "sourceDocument": "06_Fees_and_Scholarships.pdf",
+    "question": " Where can I ask about fees?",
+    "answer": "Accounts Office."
+  },
+  {
+    "category": "Academic Regulations",
+    "sourceDocument": "07_Academic_Regulations.pdf",
+    "question": " What are academic regulations?",
+    "answer": "They are the rules governing registration, courses, credits, examinations, progression, and academic conduct."
+  },
+  {
+    "category": "Academic Regulations",
+    "sourceDocument": "07_Academic_Regulations.pdf",
+    "question": " Who can explain academic rules?",
+    "answer": "The department coordinator or Academic Office."
+  },
+  {
+    "category": "Academic Regulations",
+    "sourceDocument": "07_Academic_Regulations.pdf",
+    "question": " What should I do if I have a backlog?",
+    "answer": "Consult the department for the applicable course and examination options."
+  },
+  {
+    "category": "Departments and Faculty",
+    "sourceDocument": "08_Departments_and_Faculty.pdf",
+    "question": " Which department handles Computer Science?",
+    "answer": "Department of Computer Science and Engineering."
+  },
+  {
+    "category": "Departments and Faculty",
+    "sourceDocument": "08_Departments_and_Faculty.pdf",
+    "question": " Who should I contact about a course?",
+    "answer": "The course instructor or department."
+  },
+  {
+    "category": "Departments and Faculty",
+    "sourceDocument": "08_Departments_and_Faculty.pdf",
+    "question": " Who helps with academic planning?",
+    "answer": "The department coordinator."
+  },
+  {
+    "category": "Hostel Information",
+    "sourceDocument": "09_Hostel_Information.pdf",
+    "question": " How do I apply for hostel?",
+    "answer": "Through Hostel Administration or the designated portal."
+  },
+  {
+    "category": "Hostel Information",
+    "sourceDocument": "09_Hostel_Information.pdf",
+    "question": " What are quiet hours?",
+    "answer": "10 PM to 6 AM."
+  },
+  {
+    "category": "Hostel Information",
+    "sourceDocument": "09_Hostel_Information.pdf",
+    "question": " Can visitors enter the hostel?",
+    "answer": "Visitors must follow hostel registration and visiting-hour rules."
+  },
+  {
+    "category": "Hostel Information",
+    "sourceDocument": "09_Hostel_Information.pdf",
+    "question": " Who handles hostel complaints?",
+    "answer": "Hostel Warden or Hostel Administration."
+  },
+  {
+    "category": "Library Facilities",
+    "sourceDocument": "10_Library_Facilities.pdf",
+    "question": " Do I need an ID card?",
+    "answer": "Yes, a valid university identity card is used for library services."
+  },
+  {
+    "category": "Library Facilities",
+    "sourceDocument": "10_Library_Facilities.pdf",
+    "question": " Can I use digital resources?",
+    "answer": "Yes, the university provides digital resources through its library services."
+  },
+  {
+    "category": "Library Facilities",
+    "sourceDocument": "10_Library_Facilities.pdf",
+    "question": " What happens if I lose a book?",
+    "answer": "Contact the library for the applicable replacement or recovery procedure."
+  },
+  {
+    "category": "Placement Information",
+    "sourceDocument": "11_Placement_Information.pdf",
+    "question": " Where are placement notices published?",
+    "answer": "Through the Career and Placement Cell and official student channels."
+  },
+  {
+    "category": "Placement Information",
+    "sourceDocument": "11_Placement_Information.pdf",
+    "question": " Are all placement eligibility criteria the same?",
+    "answer": "No, criteria vary by employer."
+  },
+  {
+    "category": "Placement Information",
+    "sourceDocument": "11_Placement_Information.pdf",
+    "question": " Does the university provide placement training?",
+    "answer": "The Career and Placement Cell may conduct training and guidance activities."
+  },
+  {
+    "category": "University Notices",
+    "sourceDocument": "12_University_Notices.pdf",
+    "question": " Where can I find university notices?",
+    "answer": "Student portal and official university notice channels."
+  },
+  {
+    "category": "University Notices",
+    "sourceDocument": "12_University_Notices.pdf",
+    "question": " Can notices change?",
+    "answer": "Yes, updated notices or corrigenda may replace earlier instructions."
+  },
+  {
+    "category": "University Notices",
+    "sourceDocument": "12_University_Notices.pdf",
+    "question": " Which notice should I trust?",
+    "answer": "The latest official notice issued by the relevant university office."
+  },
+  {
+    "category": "Important Dates",
+    "sourceDocument": "13_Important_Dates.pdf",
+    "question": " When is odd-semester registration?",
+    "answer": "1 August to 10 August in this fictional calendar."
+  },
+  {
+    "category": "Important Dates",
+    "sourceDocument": "13_Important_Dates.pdf",
+    "question": " When are even-semester exams?",
+    "answer": "5 May to 20 May in this fictional calendar."
+  },
+  {
+    "category": "Important Dates",
+    "sourceDocument": "13_Important_Dates.pdf",
+    "question": " Where do I find deadline changes?",
+    "answer": "Check the latest official university notice."
+  },
+  {
+    "category": "Student Services",
+    "sourceDocument": "14_Student_Services.pdf",
+    "question": " Where can I check attendance?",
+    "answer": "Student portal."
+  },
+  {
+    "category": "Student Services",
+    "sourceDocument": "14_Student_Services.pdf",
+    "question": " Where can I ask about a transcript?",
+    "answer": "Academic or Examination Office through the designated request process."
+  },
+  {
+    "category": "Student Services",
+    "sourceDocument": "14_Student_Services.pdf",
+    "question": " Who helps with scholarships?",
+    "answer": "Student Welfare Office."
+  },
+  {
+    "category": "Student Services",
+    "sourceDocument": "14_Student_Services.pdf",
+    "question": " Who handles fee issues?",
+    "answer": "Accounts Office."
+  },
+  {
+    "category": "Frequently Asked Questions",
+    "sourceDocument": "15_Frequently_Asked_Questions.pdf",
+    "question": " How do I apply for admission?",
+    "answer": "Apply through the admission portal."
+  },
+  {
+    "category": "Frequently Asked Questions",
+    "sourceDocument": "15_Frequently_Asked_Questions.pdf",
+    "question": " What documents do I need?",
+    "answer": "Academic certificates, identity proof, photograph, and applicable supporting documents."
+  },
+  {
+    "category": "Frequently Asked Questions",
+    "sourceDocument": "15_Frequently_Asked_Questions.pdf",
+    "question": " Can I apply for transfer admission?",
+    "answer": "Yes, subject to eligibility, document verification, credit evaluation, and seat availability."
+  },
+  {
+    "category": "Frequently Asked Questions",
+    "sourceDocument": "15_Frequently_Asked_Questions.pdf",
+    "question": " How do I check my application?",
+    "answer": "Use your application number and the admission portal. Academics"
+  },
+  {
+    "category": "Frequently Asked Questions",
+    "sourceDocument": "15_Frequently_Asked_Questions.pdf",
+    "question": " What is the B.Tech duration?",
+    "answer": "Four years and eight semesters in the standard program."
+  },
+  {
+    "category": "Frequently Asked Questions",
+    "sourceDocument": "15_Frequently_Asked_Questions.pdf",
+    "question": " What is the minimum attendance?",
+    "answer": "75 percent per course for regular examination eligibility."
+  },
+  {
+    "category": "Frequently Asked Questions",
+    "sourceDocument": "15_Frequently_Asked_Questions.pdf",
+    "question": " Where can I find the syllabus?",
+    "answer": "Student portal or department resource area. Exams and Results"
+  },
+  {
+    "category": "Frequently Asked Questions",
+    "sourceDocument": "15_Frequently_Asked_Questions.pdf",
+    "question": " Where is the exam timetable?",
+    "answer": "Examination Office notices and student portal."
+  },
+  {
+    "category": "Frequently Asked Questions",
+    "sourceDocument": "15_Frequently_Asked_Questions.pdf",
+    "question": " Where are results published?",
+    "answer": "Student portal."
+  },
+  {
+    "category": "Frequently Asked Questions",
+    "sourceDocument": "15_Frequently_Asked_Questions.pdf",
+    "question": " Can I apply for revaluation?",
+    "answer": "Eligible students can apply during the notified period. Fees and Support"
+  },
+  {
+    "category": "Frequently Asked Questions",
+    "sourceDocument": "15_Frequently_Asked_Questions.pdf",
+    "question": " Where do I pay fees?",
+    "answer": "Through the designated university payment system."
+  },
+  {
+    "category": "Frequently Asked Questions",
+    "sourceDocument": "15_Frequently_Asked_Questions.pdf",
+    "question": " Where do I apply for scholarships?",
+    "answer": "Student Welfare Office or designated portal."
+  },
+  {
+    "category": "Frequently Asked Questions",
+    "sourceDocument": "15_Frequently_Asked_Questions.pdf",
+    "question": " Who handles fee problems?",
+    "answer": "Accounts Office. Campus"
+  },
+  {
+    "category": "Frequently Asked Questions",
+    "sourceDocument": "15_Frequently_Asked_Questions.pdf",
+    "question": " Who handles hostel matters?",
+    "answer": "Hostel Administration."
+  },
+  {
+    "category": "Frequently Asked Questions",
+    "sourceDocument": "15_Frequently_Asked_Questions.pdf",
+    "question": " Who handles library matters?",
+    "answer": "Library Administration."
+  },
+  {
+    "category": "Frequently Asked Questions",
+    "sourceDocument": "15_Frequently_Asked_Questions.pdf",
+    "question": " Who handles placements?",
+    "answer": "Career and Placement Cell."
+  },
+  {
+    "category": "Transfer and Migration",
+    "sourceDocument": "16_Transfer_and_Migration.pdf",
+    "question": " What is a Migration Certificate?",
+    "answer": "It is a document used where required to support movement of a student's academic record between institutions."
+  },
+  {
+    "category": "Transfer and Migration",
+    "sourceDocument": "16_Transfer_and_Migration.pdf",
+    "question": " Will all previous credits transfer?",
+    "answer": "No. Credit transfer depends on academic equivalence and departmental approval."
+  },
+  {
+    "category": "Transfer and Migration",
+    "sourceDocument": "16_Transfer_and_Migration.pdf",
+    "question": " Who evaluates credits?",
+    "answer": "The concerned academic department."
+  },
+  {
+    "category": "Certificates and Documents",
+    "sourceDocument": "17_Certificates_and_Documents.pdf",
+    "question": " How do I get a bonafide certificate?",
+    "answer": "Submit a request through Student Services or the designated portal."
+  },
+  {
+    "category": "Certificates and Documents",
+    "sourceDocument": "17_Certificates_and_Documents.pdf",
+    "question": " How do I request a transcript?",
+    "answer": "Apply through the designated academic or examination office."
+  },
+  {
+    "category": "Certificates and Documents",
+    "sourceDocument": "17_Certificates_and_Documents.pdf",
+    "question": " Can I get a duplicate document?",
+    "answer": "Eligible students can request duplicates following verification and applicable procedures."
+  },
+  {
+    "category": "Campus and Facilities",
+    "sourceDocument": "18_Campus_and_Facilities.pdf",
+    "question": " Is campus Wi-Fi available?",
+    "answer": "Selected campus areas provide Wi-Fi."
+  },
+  {
+    "category": "Campus and Facilities",
+    "sourceDocument": "18_Campus_and_Facilities.pdf",
+    "question": " Where are fee issues handled?",
+    "answer": "Accounts Office."
+  },
+  {
+    "category": "Campus and Facilities",
+    "sourceDocument": "18_Campus_and_Facilities.pdf",
+    "question": " Where do I go for hostel questions?",
+    "answer": "Hostel Administration."
+  },
+  {
+    "category": "Campus and Facilities",
+    "sourceDocument": "18_Campus_and_Facilities.pdf",
+    "question": " Where is examination support?",
+    "answer": "Examination Office."
+  },
+  {
+    "category": "Grievance and Support",
+    "sourceDocument": "19_Grievance_and_Support.pdf",
+    "question": " How do I file a complaint?",
+    "answer": "Contact the responsible office first and use the formal Grievance Cell process if necessary."
+  },
+  {
+    "category": "Grievance and Support",
+    "sourceDocument": "19_Grievance_and_Support.pdf",
+    "question": " Who handles academic complaints?",
+    "answer": "Course instructor, department coordinator, or Academic Office depending on the issue."
+  },
+  {
+    "category": "Grievance and Support",
+    "sourceDocument": "19_Grievance_and_Support.pdf",
+    "question": " Who handles fee complaints?",
+    "answer": "Accounts Office."
+  },
+  {
+    "category": "Career and Internships",
+    "sourceDocument": "20_Career_and_Internships.pdf",
+    "question": " Where can I find internship opportunities?",
+    "answer": "Career and Placement Cell, department notices, and official student channels."
+  },
+  {
+    "category": "Career and Internships",
+    "sourceDocument": "20_Career_and_Internships.pdf",
+    "question": " Does the university provide career training?",
+    "answer": "The Career and Placement Cell may conduct workshops and training."
+  },
+  {
+    "category": "Career and Internships",
+    "sourceDocument": "20_Career_and_Internships.pdf",
+    "question": " Are placement criteria identical for every company?",
+    "answer": "No, each employer can define its own eligibility criteria."
+  }
+]
